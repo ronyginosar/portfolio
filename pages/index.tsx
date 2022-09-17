@@ -37,18 +37,18 @@ const Home = ({ projects, works, articles }: DataProps) => {
           <h3>colophon</h3>
           <div className="bioclassName" id="bio_colophon">
             <div className="bio_colophon_main">This website is written as an opensource code</div>
-            <a className="bio_colophon_sub" href="https://www.github.com/ronyginosar" target="_blank">
+            <a className="bio_colophon_sub" href="https://www.github.com/ronyginosar" target="_blank" rel="noreferrer">
               {' '}
               link{' '}
             </a>
             <div className="bio_colophon_main">Fonts in use from Primary Foundry Library are Open Font License</div>
-            <a className="bio_colophon_sub" href="https://primary-foundry.com/library/" target="_blank">
+            <a className="bio_colophon_sub" href="https://primary-foundry.com/library/" target="_blank" rel="noreferrer">
               {' '}
               primary-foundry.com/library{' '}
             </a>
             <div className="bio_colophon_main">
               Lincoln by
-              <a href="https://colophon.info/" target="_blank">
+              <a href="https://colophon.info/" target="_blank" rel="noreferrer">
                 David Bennewith
               </a>
             </div>
@@ -58,7 +58,7 @@ const Home = ({ projects, works, articles }: DataProps) => {
             </div>
             <div className="bio_colophon_main">
               Sprat by
-              <a href="https://www.instagram.com/nkh.otf/" target="_blank">
+              <a href="https://www.instagram.com/nkh.otf/" target="_blank" rel="noreferrer">
                 Ethan Nakache
               </a>
             </div>
