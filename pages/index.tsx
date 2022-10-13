@@ -1,8 +1,10 @@
+// build - next:
 import { useLogger } from '../lib/logger';
 import { DataProps } from '../lib/data-fetcher';
 
 export { getServerSideProps } from '../lib/data-fetcher';
 
+// rendering - react:
 const Home = ({ projects, works, articles }: DataProps) => {
   const logger = useLogger();
   logger.info({ projects, works, articles }, 'Loaded documents');

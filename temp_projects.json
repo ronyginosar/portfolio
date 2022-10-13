@@ -1,0 +1,191 @@
+{
+  "projects": [
+    {
+      "title": "36daysoftype_2020",
+      "content": null,
+      "snippet": null,
+      "date": "2020-03-03T15:47:39Z",
+      "link": "https://github.com/ronyginosar/36daysoftype_2020",
+      "type": "github"
+    },
+    {
+      "title": "BezalelFoundry",
+      "content": "Bezalel Academy Student Fonts",
+      "snippet": "Bezalel Academy Student Fonts",
+      "date": "2019-05-15T20:06:50Z",
+      "link": "https://github.com/ronyginosar/BezalelFoundry",
+      "type": "github"
+    },
+    {
+      "title": "HebrewNibber",
+      "content": null,
+      "snippet": null,
+      "date": "2019-03-11T14:03:25Z",
+      "link": "https://github.com/ronyginosar/HebrewNibber",
+      "type": "github"
+    },
+    {
+      "title": "ParametricHabitat",
+      "content": "The Grasshopper code definition of a parametric mushroom space",
+      "snippet": "The Grasshopper code definition of a parametric mushroom space",
+      "date": "2019-11-17T17:20:46Z",
+      "link": "https://github.com/ronyginosar/ParametricHabitat",
+      "type": "github"
+    },
+    {
+      "title": "parametricSpecimen",
+      "content": "v5",
+      "snippet": "v5",
+      "date": "2019-04-24T17:53:42Z",
+      "link": "https://github.com/ronyginosar/parametricSpecimen",
+      "type": "github"
+    },
+    {
+      "title": "portfolio",
+      "content": "my personal website as an open source code",
+      "snippet": "my personal website as an open source code",
+      "date": "2022-09-17T15:15:17Z",
+      "link": "https://github.com/ronyginosar/portfolio",
+      "type": "github"
+    },
+    {
+      "title": "portfolio-bottomup",
+      "content": "my personal website as an open source code",
+      "snippet": "my personal website as an open source code",
+      "date": "2022-06-24T19:04:00Z",
+      "link": "https://github.com/ronyginosar/portfolio-bottomup",
+      "type": "github"
+    },
+    {
+      "title": "RAGgrid",
+      "content": null,
+      "snippet": null,
+      "date": "2020-11-04T09:58:56Z",
+      "link": "https://github.com/ronyginosar/RAGgrid",
+      "type": "github"
+    },
+    {
+      "title": "RAG_PythonLetterGrid",
+      "content": "A pythonic drawbot approach to the RAG_letterGrid project",
+      "snippet": "A pythonic drawbot approach to the RAG_letterGrid project",
+      "date": "2020-11-19T13:49:25Z",
+      "link": "https://github.com/ronyginosar/RAG_PythonLetterGrid",
+      "type": "github"
+    },
+    {
+      "title": "TamaProject",
+      "content": null,
+      "snippet": null,
+      "date": "2020-10-12T18:27:49Z",
+      "link": "https://github.com/ronyginosar/TamaProject",
+      "type": "github"
+    },
+    {
+      "title": "ZoomTimeHaggada",
+      "content": "A web Haggada for any screen zooming the Seder",
+      "snippet": "A web Haggada for any screen zooming the Seder",
+      "date": "2020-04-06T15:11:39Z",
+      "link": "https://github.com/ronyginosar/ZoomTimeHaggada",
+      "type": "github"
+    }
+  ],
+  "works": [
+    {
+      "title": "Inbetween: Visual Selection in Parametric Design",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/51c6a3145508599.Y3JvcCwyMzAxLDE4MDAsODUsMA.png' style='float:left; margin-right:15px;' /><br /> Variable Fonts are on the rise, but what should a Variable Font specimen look like? Since the movable type revolution, the Font catalog barely changed its appearance, not even with the transition to the virtual sphere. As Variable Fonts span complex design spaces, intuitive navigation tools to accompany them are in need.\n\nThis video presents the design aspect of the research paper \"Inbetween: Visual Selection in Parametric Design\" available at: https://doi.org/10.48550/arXiv.2206.01978\n\nTool can be found on: https://ronyginosar.github.io/parametricSpecimen/\n\nAdvisor Amit Zoran",
+      "snippet": "Variable Fonts are on the rise, but what should a Variable Font specimen look like? Since the movable type revolution, the Font catalog barely changed its appearance, not even with the transition to the virtual sphere. As Variable Fonts span complex design spaces, intuitive navigation tools to accompany them are in need.\n\nThis video presents the design aspect of the research paper \"Inbetween: Visual Selection in Parametric Design\" available at: https://doi.org/10.48550/arXiv.2206.01978\n\nTool can be found on: https://ronyginosar.github.io/parametricSpecimen/\n\nAdvisor Amit Zoran",
+      "date": "2022-06-07T18:48:08.000Z",
+      "link": "https://www.behance.net/gallery/145508599/Inbetween-Visual-Selection-in-Parametric-Design",
+      "type": "behance"
+    },
+    {
+      "title": "Dappim Tzehubim - Shimon Tzabar Artist Book",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/f88f4998869003.Y3JvcCwxMDIxLDc5OSw3Myww.jpg' style='float:left; margin-right:15px;' /><br /> ",
+      "snippet": "",
+      "date": "2020-06-14T14:34:17.000Z",
+      "link": "https://www.behance.net/gallery/98869003/Dappim-Tzehubim-Shimon-Tzabar-Artist-Book",
+      "type": "behance"
+    },
+    {
+      "title": "Fontef Variable Minisite",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/2bfdc2145816387.Y3JvcCw5MDAsNzA0LDI0OSww.gif' style='float:left; margin-right:15px;' /><br /> coding for the fontef foundry variable minisite",
+      "snippet": "coding for the fontef foundry variable minisite",
+      "date": "2022-06-11T22:32:15.000Z",
+      "link": "https://www.behance.net/gallery/145816387/Fontef-Variable-Minisite",
+      "type": "behance"
+    },
+    {
+      "title": "Here Stood - Visual Interventions in the Public Space",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/32608198866693.Y3JvcCw4MTgsNjQwLDcyLDA.jpg' style='float:left; margin-right:15px;' /><br /> ",
+      "snippet": "",
+      "date": "2020-06-14T14:35:22.000Z",
+      "link": "https://www.behance.net/gallery/98866693/Here-Stood-Visual-Interventions-in-the-Public-Space",
+      "type": "behance"
+    },
+    {
+      "title": "Typographic Experiments",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/5a2bd250705343.Y3JvcCwxMjAwLDkzOCwwLDExNQ.png' style='float:left; margin-right:15px;' /><br /> hebrew typography manipulations and studies in the mission to use type as a form of art",
+      "snippet": "hebrew typography manipulations and studies in the mission to use type as a form of art",
+      "date": "2017-03-26T10:52:14.000Z",
+      "link": "https://www.behance.net/gallery/50705343/Typographic-Experiments",
+      "type": "behance"
+    },
+    {
+      "title": "Contacts",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/c271dd62355763.Y3JvcCwxMDI2LDgwMywwLDA.jpg' style='float:left; margin-right:15px;' /><br /> We interact with our surroundings by talking to and touching the people closest to us.\nAn idea propagates over large distances through a community of interconnected people.\nUsing the same ideas as the propagation of sound waves through materials, our installation uses an abstraction of how information passes between inanimate objects and propagates long distances.",
+      "snippet": "We interact with our surroundings by talking to and touching the people closest to us.\nAn idea propagates over large distances through a community of interconnected people.\nUsing the same ideas as the propagation of sound waves through materials, our installation uses an abstraction of how information passes between inanimate objects and propagates long distances.",
+      "date": "2018-02-21T16:21:37.000Z",
+      "link": "https://www.behance.net/gallery/62355763/Contacts",
+      "type": "behance"
+    },
+    {
+      "title": "Annual Hebrew Conference poster",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/39b76c98870521.Y3JvcCwxMjAwLDkzOCwwLDczOQ.jpg' style='float:left; margin-right:15px;' /><br /> ",
+      "snippet": "",
+      "date": "2020-06-14T15:12:41.000Z",
+      "link": "https://www.behance.net/gallery/98870521/Annual-Hebrew-Conference-poster",
+      "type": "behance"
+    },
+    {
+      "title": "Infographics - Madres De Plaza De Mayo",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/c65f2971094391.Y3JvcCwzMjc5LDI1NjUsMCww.jpg' style='float:left; margin-right:15px;' /><br /> Asked to present the historic event in a given folding format, I chose to move away from the stories and give light to the vast scope and numbers of disappearance during the military dictatorship in Argentina. Hand drawn infographics on triangle diaper cloth, as the ones the mothers wore during their protest with the names of their missing children written on them, felt to be the right medium to portray the bigger picture and dimension of truth distortion by the government.",
+      "snippet": "Asked to present the historic event in a given folding format, I chose to move away from the stories and give light to the vast scope and numbers of disappearance during the military dictatorship in Argentina. Hand drawn infographics on triangle diaper cloth, as the ones the mothers wore during their protest with the names of their missing children written on them, felt to be the right medium to portray the bigger picture and dimension of truth distortion by the government.",
+      "date": "2018-10-07T09:59:38.000Z",
+      "link": "https://www.behance.net/gallery/71094391/Infographics-Madres-De-Plaza-De-Mayo",
+      "type": "behance"
+    },
+    {
+      "title": "Bezalel Foundry",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/f52bef145937941.Y3JvcCwxMDA0LDc4NiwyMTYsMA.gif' style='float:left; margin-right:15px;' /><br /> ",
+      "snippet": "",
+      "date": "2022-06-13T19:31:03.000Z",
+      "link": "https://www.behance.net/gallery/145937941/Bezalel-Foundry",
+      "type": "behance"
+    },
+    {
+      "title": "Digital - Physical Puzzle (interactive)",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/61a7cb109354925.Y3JvcCw5NTYsNzQ4LDgwLDA.png' style='float:left; margin-right:15px;' /><br /> ",
+      "snippet": "",
+      "date": "2020-12-10T08:05:10.000Z",
+      "link": "https://www.behance.net/gallery/109354925/Digital-Physical-Puzzle-%28interactive%29",
+      "type": "behance"
+    },
+    {
+      "title": "HebrewNibber",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/ce5262147171187.Y3JvcCwzNTc5LDI3OTksMCwyMzk.jpg' style='float:left; margin-right:15px;' /><br /> The HebrewNibber is an automated open source script to create all 8 typographic Masters (parametric extremities) needed to recreate the Noordzij Cube for the Hebrew alphabet. ",
+      "snippet": "The HebrewNibber is an automated open source script to create all 8 typographic Masters (parametric extremities) needed to recreate the Noordzij Cube for the Hebrew alphabet.",
+      "date": "2022-06-30T09:50:21.000Z",
+      "link": "https://www.behance.net/gallery/147171187/HebrewNibber",
+      "type": "behance"
+    },
+    {
+      "title": "Projection Mapping Workshop",
+      "content": "<img src='https://mir-s3-cdn-cf.behance.net/projects/404/dc48dc62508275.Y3JvcCwzMTE2LDI0MzksMTY5LDA.jpg' style='float:left; margin-right:15px;' /><br /> projection mapping workshop during Indian Design Week",
+      "snippet": "projection mapping workshop during Indian Design Week",
+      "date": "2018-02-25T16:56:21.000Z",
+      "link": "https://www.behance.net/gallery/62508275/Projection-Mapping-Workshop",
+      "type": "behance"
+    }
+  ],
+  "articles": []
+}
